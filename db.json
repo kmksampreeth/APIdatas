@@ -1,4 +1,5 @@
-[
+{
+  "data":[
   {
     "id": 1,
     "category": "Roofing tiles store",
@@ -540,3 +541,4 @@
     "maplink": "https://maps.google.com/?cid=2550842717529781312"
   }
 ]
+}
